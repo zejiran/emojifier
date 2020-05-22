@@ -1,11 +1,6 @@
-# mlh-localhost-emojifier-code
+# Emojifier code
 
-This repo contains the starter code for the workshop Intro to the MEAN Stack Powered by Blackrock
-
-Demo image link:
-
-https://docs.microsoft.com/en-ca/azure/cognitive-services/face/images/facefindsimilar.queryface.jpg
-
+This repo contains the complete code done for the workshop Intro to the MEAN Stack Powered by Blackrock.
 
 MongoDB Windows Startup Command:
 
