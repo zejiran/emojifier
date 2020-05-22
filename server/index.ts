@@ -12,7 +12,7 @@ app.use(cors({
 app.use(express.static(__dirname + "/../dist/"));
 
 const uriBase = 'https://westcentralus.api.cognitive.microsoft.com/face/v1.0/detect/';
-const subscriptionKey = '7bed1c5193634bd88d587b3bede061d8';
+const subscriptionKey = 'APIKEY';
 
 const port = 3000;
 
